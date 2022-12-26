@@ -17,7 +17,8 @@ int main() {
     int size = sizeof(ch);
     cout<<"Size of a is :" <<size<<endl;
     return 0;
-
+    */
+  
 
     int a = 'a';
     cout<<a<<endl;
@@ -25,7 +26,7 @@ int main() {
     cout<<ch<<endl;
     char a1=123456;
     cout<<a1<<endl;
-
+    /*
 
 
     unsigned int a = -12345;
@@ -37,7 +38,7 @@ int main() {
     float a1 = 2.0/5 ;
     cout<<a1<<endl;
 
-  */
+  
   int a = 2;
   int b = 5;
 
@@ -49,4 +50,5 @@ int main() {
 
   bool first1 = (a1 < b1);
   cout << first1 << endl;
+  */
 }
